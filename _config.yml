@@ -3,3 +3,8 @@ description: This little book provides a comparison of the programming languages
 theme: just-the-docs
 
 url: https://darrela.github.io/mini-book
+
+color_scheme: dark
+
+back_to_top: true
+back_to_top_text: 'Back to top'
