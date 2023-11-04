@@ -1,5 +1,6 @@
+# bundle exec jekyll serve --port 4001
 title: mini-book
-description: This is a little programming book.
+description: This is a little programming notebook. Essentially, I just dump whatever I find interesting.
 theme: just-the-docs
 
 url: https://darrela.github.io/mini-book
